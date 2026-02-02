@@ -1,7 +1,6 @@
 # Multi-Camera Vehicle Tracking (MCMT)
 > **Disclaimer**  
 > This repository is created **for academic study and research purposes only**.  
-> Any use of this project for commercial purposes is strictly prohibited.  
 > The copyrights of the ELECTRICITY framework, Synthehicle dataset, CityFlow dataset, and other third-party resources remain with their original authors.
 
 
